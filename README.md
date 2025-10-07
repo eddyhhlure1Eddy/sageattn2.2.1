@@ -31,8 +31,4 @@
 - SageAttention2++ implementation
 - SageAttention3 for Blackwell architecture
 - FlashAttention3 integration
-<img width="4767" height="3543" alt="figure5_comprehensive_advantage" src="https://github.com/user-attachments/assets/11029572-8584-4d96-bf3a-a19a6a1afaa2" />
-<img width="4773" height="2292" alt="figure4_smart_routing_effectiveness" src="https://github.com/user-attachments/assets/699cdb7a-3464-427a-8bff-d35f9c5a2110" />
-<img width="4472" height="1759" alt="figure3_quantization_analysis" src="https://github.com/user-attachments/assets/0935997e-a5c6-4a8b-8ff6-80d289f15ec1" />
-<img width="3780" height="2405" alt="figure2_system_architecture" src="https://github.com/user-attachments/assets/75a5602c-3d93-486a-84ee-f7f9a33c04a3" />
-<img width="4171" height="2363" alt="figure1_performance_comparison" src="https://github.com/user-attachments/assets/624dfd26-67fe-4e1a-bf83-aeace03d3ca4" />
+
