@@ -1,5 +1,5 @@
 ## [2.2.1] - 2025-10-07
-
+https://huggingface.co/eddy1111111/sageattention-2.2.0-cp312-270-cu128-cp312-win_amd64/tree/main
 ### Added
 - Smart routing system for dynamic kernel selection
 - GPU architecture-aware optimizations (SM75-SM120)
@@ -35,3 +35,4 @@
 <img width="3780" height="2405" alt="figure2_system_architecture" src="https://github.com/user-attachments/assets/bac44171-b131-42ba-861e-e779fd851faa" />
 <img width="4767" height="3543" alt="figure5_comprehensive_advantage" src="https://github.com/user-attachments/assets/747e2ba0-c2c1-475b-8f83-e7c5b9d06693" />
 
+https://huggingface.co/eddy1111111/sageattention-2.2.0-cp312-270-cu128-cp312-win_amd64/tree/main
